@@ -2,7 +2,7 @@
 
 Expected prior knowledge	
 Required:
-• programming experience from CSE1100 or equivalent
+• programming experience from CSE1100(Object Oriented Programming in Java) or equivalent
 
 Strongly advised:
 • experience with algorithms and data structures (priority queue, graph algorithms etc) such as from Algorithms and Datastructures (CSE1305);
