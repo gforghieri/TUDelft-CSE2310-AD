@@ -10,6 +10,7 @@ import org.junit.rules.*;
 
 public class BetterAverageTest {
 
+
     @Test(timeout = 100)
     public void example() {
         int n = 4;
